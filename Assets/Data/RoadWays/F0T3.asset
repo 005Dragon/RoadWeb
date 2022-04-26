@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11af21b8cc6b49c0af183698a6884ee7, type: 3}
+  m_Name: F0T3
+  m_EditorClassIdentifier: 
+  Direction:
+    From: 0
+    To: 3
+  Points:
+  - {x: 1, y: 0.4375}
+  - {x: 0.7886749, y: 0.45587504}
+  - {x: 0.5842123, y: 0.51137507}
+  - {x: 0.38541222, y: 0.6045625}
+  - {x: 0.19107483, y: 0.73600006}
+  - {x: -0.000000039613447, y: 0.90625006}

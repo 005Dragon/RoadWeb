@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11af21b8cc6b49c0af183698a6884ee7, type: 3}
+  m_Name: F7T7
+  m_EditorClassIdentifier: 
+  Direction:
+    From: 7
+    To: 7
+  Points:
+  - {x: 0.90625, y: 0}
+  - {x: 0.6865, y: 0.24712503}
+  - {x: 0.59106255, y: 0.38512504}
+  - {x: 0.61487496, y: 0.40893748}
+  - {x: 0.75287503, y: 0.31350002}
+  - {x: 1, y: 0.09375}

@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d3df69f5ebae33408a46a1ebefcdff7, type: 3}
+  m_Name: RD112
+  m_EditorClassIdentifier: 
+  Directions:
+  - From: 4
+    To: 4
+  - From: 4
+    To: 5
+  - From: 4
+    To: 6
+  - From: 5
+    To: 4
+  - From: 5
+    To: 5
+  - From: 5
+    To: 6
+  - From: 6
+    To: 4
+  - From: 6
+    To: 5
+  - From: 6
+    To: 6
+  Width: 0.35
+  LineWidth: 0.1328125
+  Sprite: {fileID: -2542121129473872941, guid: 94d7f83dc232d574ca7d2454b57e8805, type: 3}

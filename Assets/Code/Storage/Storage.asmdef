@@ -1,0 +1,16 @@
+{
+    "name": "Storage",
+    "rootNamespace": "",
+    "references": [
+        "GUID:86bb56a14bbefbd42852e847422abf72"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
